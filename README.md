@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ricardo.l.b.reis@gmail.com
 
 Feel free to contact also at:
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ricardobreis/)
