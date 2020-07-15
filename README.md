@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+*Work in Progress...*
+
 <!--
 **ricardobreis/ricardobreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*Work in Progress...*
+- 📫 How to reach me: ricardo.l.b.reis@gmail.com
+
+Feel free to contact also at:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ricardobreis/)
