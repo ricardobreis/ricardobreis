@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello folks 👋
 
-*Work in Progress...*
+My name is Ricardo, I'm a Data Scientist. You can check some of my projects below.
 
 <!--
 **ricardobreis/ricardobreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
