@@ -1,6 +1,6 @@
 ### Hello folks 👋
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=ricardobreis)](https://github.com/ricardobreis/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=ricardobreis&show_icons=true)
 My name is Ricardo, I'm a Data Scientist. You can check some of my projects below.
 
 <!--
