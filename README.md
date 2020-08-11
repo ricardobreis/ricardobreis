@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 Feel free to contact also at:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ricardobreis/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardobreis/)](https://www.linkedin.com/in/ricardobreis/)
