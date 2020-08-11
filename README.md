@@ -4,7 +4,7 @@ My name is Ricardo, I'm a Data Scientist. You can check some of my projects belo
 
 <!--
 **ricardobreis/ricardobreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ricardobreis/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 
 Feel free to contact also at:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ricardobreis/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardobreis/)](https://www.linkedin.com/in/ricardobreis/)
