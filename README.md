@@ -1,7 +1,5 @@
 ### Hello folks 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ricardobreis&show_icons=true)
-
 My name is Ricardo, I'm a Data Scientist. You can check some of my projects below.
 
 <!--
@@ -26,3 +24,5 @@ Here are some ideas to get you started:
 Feel free to contact also at:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardobreis/)](https://www.linkedin.com/in/ricardobreis/)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ricardobreis&show_icons=true)
