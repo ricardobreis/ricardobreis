@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 Feel free to contact also at:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardobreis/)](https://www.linkedin.com/in/ricardobreis/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-black?logo=Gmail&logoColor=white&link=mailto:ricardo.l.b.reis@gmail.com)](mailto:ricardo.l.b.reis@gmail.com)
