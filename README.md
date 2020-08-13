@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on *Data Science* projects.
 - 🌱 I’m currently developing myself on *Machine Learning* and *Deep Learning*.
 
-Feel free to contact also at:
+Feel free to contact me at:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardobreis/)](https://www.linkedin.com/in/ricardobreis/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-black?logo=Gmail&logoColor=white&link=mailto:ricardo.l.b.reis@gmail.com)](mailto:ricardo.l.b.reis@gmail.com)
