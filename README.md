@@ -1,6 +1,6 @@
 ### Hello folks 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ricardobreis&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ricardobreis&show_icons=true&theme=dark">
 
 My name is Ricardo, I'm a Data Scientist. You can check some of my projects below.
 
