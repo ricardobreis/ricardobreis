@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on *Data Science* projects.
 - 🌱 I’m currently developing myself on *Machine Learning* and *Deep Learning*.
-- 📫 How to reach me: ricardo.l.b.reis@gmail.com
 
 Feel free to contact also at:
 
